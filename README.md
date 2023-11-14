@@ -118,4 +118,4 @@ Execute the program
 </html>
 ```
 # OUPUT
-![output](/ODD2023-WT-Ex-03-Timetable/Screenshot%202023-11-15%20044331.png)
+![output](/Screenshot%202023-11-15%20044331.png)
