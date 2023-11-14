@@ -1,5 +1,6 @@
 # Ex-04-Timetable
-## AIM
+
+# AIM
 To Write a html webpage page to display your timetable.
 
 # ALGORITHM
