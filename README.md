@@ -1,4 +1,4 @@
-# Ex-04-Timetable
+# Ex-05-Timetable
 
 # AIM
 To Write a html webpage page to display your timetable.
